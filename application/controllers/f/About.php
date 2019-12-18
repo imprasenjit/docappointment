@@ -5,7 +5,7 @@ class About extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
-	 *
+	 * Prasenjit Das
 	 * Maps to the following URL
 	 * 		http://localhost/dailyshop/
 	 *	- or -
